@@ -20,3 +20,5 @@ Jetpack Compose, minSdk 26. Три экрана: ГОНКА (0–50 / 0–100 п
 - `XrayScreen.kt` → `RATIOS`, `FINAL_DRIVE` — передаточные числа АКПП (приблизительные).
 - `Telemetry.kt` → `START_KMH` — порог начала отсчёта (1.5 км/ч).
 - Кнопка DEMO сверху включает симулятор для проверки без выезда.
+
+github.com/kamalssey-stack/ggcar/releases/tag/v1
